@@ -16,76 +16,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="site.ini" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/php-7.1-fpm/site.ini">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="site.pool.conf" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/php-7.1-fpm/site.pool.conf">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/php-7.1-fpm/.travis.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/php-7.1-fpm/Dockerfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="symfony-dev.conf" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nginx/symfony-dev.conf">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="symfony-prod.conf" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nginx/symfony-prod.conf">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="symfony-test.conf" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/nginx/symfony-test.conf">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
@@ -99,8 +29,38 @@
       <file leaf-file-name="supervisord.conf" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/supervisord.conf">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="43" column="25" lean-forward="true" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+            <state relative-caret-position="360">
+              <caret line="24" column="44" lean-forward="true" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="symfony-dev.conf" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nginx/symfony-dev.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="45" lean-forward="false" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="symfony-prod.conf" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nginx/symfony-prod.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="symfony-test.conf" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/nginx/symfony-test.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -122,10 +82,12 @@
     <findStrings>
       <find>app_dev</find>
       <find>localhost:9000</find>
+      <find>fastcgi_pass /run/php/php7.1-fpm.sock</find>
     </findStrings>
     <replaceStrings>
       <replace>app</replace>
       <replace>/run/php/php7.1-fpm.sock</replace>
+      <replace>fastcgi_pass unix:/var/run/php7.1-fpm.sock</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -273,12 +235,12 @@
       <updated>1498842754216</updated>
       <workItem from="1498842756178" duration="1762000" />
       <workItem from="1498845106944" duration="370000" />
-      <workItem from="1498846585069" duration="858000" />
+      <workItem from="1498846585069" duration="1215000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2996000" />
+    <option name="totallyTimeSpent" value="3353000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-361" y="-1177" width="1920" height="1177" extended-state="6" />
@@ -438,7 +400,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php-7.1-fpm/site.ini">
+    <entry file="file://$PROJECT_DIR$/php-7.1-fpm/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-7.1-fpm/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -454,10 +424,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/supervisord.conf">
+    <entry file="file://$PROJECT_DIR$/php-7.1-fpm/site.ini">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" column="25" lean-forward="true" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -470,18 +440,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php-7.1-fpm/.travis.yml">
+    <entry file="file://$PROJECT_DIR$/supervisord.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php-7.1-fpm/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        <state relative-caret-position="360">
+          <caret line="24" column="44" lean-forward="true" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="44" />
           <folding />
         </state>
       </provider>
@@ -489,7 +451,7 @@
     <entry file="file://$PROJECT_DIR$/nginx/symfony-dev.conf">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <caret line="18" column="45" lean-forward="false" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
           <folding />
         </state>
       </provider>
@@ -497,7 +459,7 @@
     <entry file="file://$PROJECT_DIR$/nginx/symfony-prod.conf">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
           <folding />
         </state>
       </provider>
