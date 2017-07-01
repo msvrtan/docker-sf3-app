@@ -47,9 +47,9 @@ RUN mkdir -p /var/log/supervisor
 ADD supervisord.conf /etc/supervisor/conf.d/
 
 ADD nginx/nginx.conf /etc/nginx/
-ADD nginx/symfony-prod.conf /etc/nginx/sites-available/
-ADD nginx/symfony-dev.conf /etc/nginx/sites-available/
-ADD nginx/symfony-test.conf /etc/nginx/sites-available/
+ADD nginx/symfony-prod.conf /etc/nginx/sites-enabled/
+ADD nginx/symfony-dev.conf /etc/nginx/sites-enabled/
+ADD nginx/symfony-test.conf /etc/nginx/sites-enabled/
 
 RUN usermod -u 1000 www-data
 

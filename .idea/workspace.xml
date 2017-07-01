@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd1e41e6-ac81-4629-9049-af35bd4f66a5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nginx/symfony-dev.conf" afterPath="$PROJECT_DIR$/nginx/symfony-dev.conf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nginx/symfony-prod.conf" afterPath="$PROJECT_DIR$/nginx/symfony-prod.conf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nginx/symfony-test.conf" afterPath="$PROJECT_DIR$/nginx/symfony-test.conf" />
-    </list>
+    <list default="true" id="dd1e41e6-ac81-4629-9049-af35bd4f66a5" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -176,12 +172,12 @@
       <updated>1498842754216</updated>
       <workItem from="1498842756178" duration="1762000" />
       <workItem from="1498845106944" duration="370000" />
-      <workItem from="1498846585069" duration="1500000" />
+      <workItem from="1498846585069" duration="2097000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3638000" />
+    <option name="totallyTimeSpent" value="4235000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-361" y="-1177" width="1920" height="1177" extended-state="6" />
